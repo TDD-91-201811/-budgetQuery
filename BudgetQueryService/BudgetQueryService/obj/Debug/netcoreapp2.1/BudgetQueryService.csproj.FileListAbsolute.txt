@@ -1,0 +1,9 @@
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService\bin\Debug\netcoreapp2.1\BudgetQueryService.deps.json
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService\bin\Debug\netcoreapp2.1\BudgetQueryService.dll
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService\bin\Debug\netcoreapp2.1\BudgetQueryService.pdb
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService\obj\Debug\netcoreapp2.1\BudgetQueryService.csprojAssemblyReference.cache
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService\obj\Debug\netcoreapp2.1\BudgetQueryService.csproj.CoreCompileInputs.cache
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService\obj\Debug\netcoreapp2.1\BudgetQueryService.AssemblyInfoInputs.cache
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService\obj\Debug\netcoreapp2.1\BudgetQueryService.AssemblyInfo.cs
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService\obj\Debug\netcoreapp2.1\BudgetQueryService.dll
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService\obj\Debug\netcoreapp2.1\BudgetQueryService.pdb

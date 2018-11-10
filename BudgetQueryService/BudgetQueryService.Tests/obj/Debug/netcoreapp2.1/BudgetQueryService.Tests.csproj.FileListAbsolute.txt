@@ -1,0 +1,17 @@
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\bin\Debug\netcoreapp2.1\BudgetQueryService.Tests.deps.json
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\bin\Debug\netcoreapp2.1\BudgetQueryService.Tests.runtimeconfig.json
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\bin\Debug\netcoreapp2.1\BudgetQueryService.Tests.runtimeconfig.dev.json
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\bin\Debug\netcoreapp2.1\BudgetQueryService.Tests.dll
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\bin\Debug\netcoreapp2.1\BudgetQueryService.Tests.pdb
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\bin\Debug\netcoreapp2.1\BudgetQueryService.dll
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\bin\Debug\netcoreapp2.1\BudgetQueryService.pdb
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\obj\Debug\netcoreapp2.1\BudgetQueryService.Tests.csprojAssemblyReference.cache
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\obj\Debug\netcoreapp2.1\BudgetQueryService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\obj\Debug\netcoreapp2.1\BudgetQueryService.Tests.AssemblyInfoInputs.cache
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\obj\Debug\netcoreapp2.1\BudgetQueryService.Tests.AssemblyInfo.cs
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\obj\Debug\netcoreapp2.1\BudgetQueryService.Tests.csproj.CopyComplete
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\obj\Debug\netcoreapp2.1\BudgetQueryService.Tests.dll
+C:\Users\steven\Desktop\budgetQuery\BudgetQueryService\BudgetQueryService.Tests\obj\Debug\netcoreapp2.1\BudgetQueryService.Tests.pdb

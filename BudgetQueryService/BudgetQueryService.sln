@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetQueryService", "BudgetQueryService\BudgetQueryService.csproj", "{2AFA976C-9912-4716-BB39-FA394D99525E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetQueryService.Tests", "BudgetQueryService.Tests\BudgetQueryService.Tests.csproj", "{1F5C10CE-548A-495D-968E-D31FBD48D0E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AFA976C-9912-4716-BB39-FA394D99525E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFA976C-9912-4716-BB39-FA394D99525E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFA976C-9912-4716-BB39-FA394D99525E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFA976C-9912-4716-BB39-FA394D99525E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5C10CE-548A-495D-968E-D31FBD48D0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5C10CE-548A-495D-968E-D31FBD48D0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5C10CE-548A-495D-968E-D31FBD48D0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5C10CE-548A-495D-968E-D31FBD48D0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6038576D-242B-4C7B-B356-F28F10C3C0BC}
+	EndGlobalSection
+EndGlobal

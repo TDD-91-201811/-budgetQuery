@@ -58,7 +58,8 @@ namespace BudgetQueryService
 
         private DateTime GetEndOfMonth(DateTime date)
         {
-            var end = new DateTime(date.Year, date.Month + 1, 1);
+            var nextMonth = date.AddMonths(1);
+            var end = new DateTime(nextMonth.Year, nextMonth.Month, 1);
 
             return end.AddDays(-1);
         }
@@ -71,7 +72,10 @@ namespace BudgetQueryService
         private int GetMonthAmount(string yearMonth)
         {
             var totalAmount = _budgetRepository.GetAll();
-            return totalAmount.Where(x => x.YearMonth == yearMonth).SingleOrDefault().Amount;
+
+            var temp = totalAmount.Where(x => x.YearMonth == yearMonth).FirstOrDefault();
+
+            return temp == null  ? 0:temp.Amount;
         }
 
         private int GetDailyAmount(int year, int month)

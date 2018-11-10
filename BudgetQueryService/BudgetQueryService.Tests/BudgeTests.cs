@@ -89,5 +89,21 @@ namespace BudgetQueryService.Tests
             //Assert
             Assert.AreEqual(1095, actual);
         }
+
+        [TestMethod]
+        public void OverOneYear()
+        {
+            //Arrange
+            _budgetRepository = new StubBudgetRepository();
+            _target = new BudgetService(_budgetRepository);
+            var start = new DateTime(2018, 1, 1);
+            var end = new DateTime(2019, 1, 1);
+
+            //Act
+            var actual = _target.TotalAmount(start, end);
+
+            //Assert
+            Assert.AreEqual(1335, actual);
+        }
     }
 }
